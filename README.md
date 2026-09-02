@@ -1,8 +1,8 @@
 ## Hi, I'm Julian
 
 I'm an AI consultant and artist in Berlin, working as **Making AI Practical**. Most of what I do is
-helping people and teams use AI tools properly — which usually turns out to mean stripping away the
-hype and finding the two or three things that genuinely save them a day a week.
+helping people and teams use AI tools — which usually turns out to mean stripping away the
+options out there and finding the two or three things that genuinely save them a day a week.
 
 I build small tools for myself along the way. When one turns out to be useful, I put it here for
 free.
@@ -33,4 +33,4 @@ useful than the first.
   [info@makingaipractical.com](mailto:info@makingaipractical.com)
 - **More about the work:** [makingaipractical.com](https://makingaipractical.com)
 
-I read everything. I answer more slowly than I'd like.
+I read and respond to everything.
